@@ -59,3 +59,5 @@ git push -u origin master
 ```
 bla bla
 nečum
+
+Cortana was here :O
